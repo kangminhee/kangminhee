@@ -13,6 +13,7 @@ HI! 안녕하세요!
 </div>
 
 
+github 어렵다
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangminhee)](https://github.com/anuraghazra/github-readme-stats)
 
