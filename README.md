@@ -1,6 +1,7 @@
-HI! 안녕하세요!
+Soongsil University Computer Science and Engineering (Mar.2023 - (expected) Feb.2027)
+Bachelor of Engineering - B.E.
 
-<div align=left><h2>내 작고 소중한 백준</h2></div>
+<div align=left><h2>BAEKJOON ONLINE JUDGE</h2></div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingnei)]([https://solved.ac/mingnei/](https://solved.ac/profile/mingnei))
 
@@ -8,14 +9,9 @@ HI! 안녕하세요!
 
 <div align=left> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
 </div>
 
-
-github 어렵다
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangminhee)](https://github.com/anuraghazra/github-readme-stats)
-
-🌱 Computer Science and Engineering at Soongsil University
