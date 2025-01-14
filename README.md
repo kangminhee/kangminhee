@@ -1,5 +1,5 @@
-Soongsil University Computer Science and Engineering (Mar.2023 - (expected) Feb.2027)<br>
-Bachelor of Engineering - B.E.
+School of Computer Science and Engineering(Mar.2023 - (expected) Feb.2027)<br>
+Bachelor of Science in Engineering
 
 <div align=left><h2>BAEKJOON ONLINE JUDGE</h2></div>
 
