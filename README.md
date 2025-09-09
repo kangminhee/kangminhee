@@ -27,20 +27,15 @@
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: var(--fgColor-default);"> 🏅 Stats </h2>
   <div align="center">
-
-    <!-- GitHub Stats -->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kangminhee&show_icons=true&theme=radical" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kangminhee&show_icons=true&theme=default" />
       <img src="https://github-readme-stats.vercel.app/api?username=kangminhee&show_icons=true&theme=default" alt="GitHub Stats" />
     </picture>
-
-    <!-- Top Langs -->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kangminhee&layout=compact&theme=radical" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kangminhee&layout=compact&theme=default" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangminhee&layout=compact&theme=default" alt="Top Langs" />
     </picture>
-
   </div>
 </div>
